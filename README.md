@@ -1,2 +1,2 @@
 # object
-this is a bad code ## donot use it
+this is a bad code ## do not use it for mental healt
